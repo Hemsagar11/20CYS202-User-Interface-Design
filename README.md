@@ -22,12 +22,12 @@
 |:------:|:-----------:|-------|-------------|:------------:|
 | # | 1 | Course Introduction ![](https://img.shields.io/badge/-Completed-brightgreen) | | |
 | # | 1 | Introduction to User Interface Design ![](https://img.shields.io/badge/-Completed-brightgreen) | | |
-| 1 | 2 | Introduction to Web | | |
-| 1 | 2 | Client-Server Architecture of Web | | |
-| 1 | 2| Web Server | | |
-| 1 | 2 | Application Server | | |
-| 1 | 3 | Evolution of Web | | |
-| 1 | 3 | Web 1.0, Web 2.0, Web 3.0 | | |
+| 1 | 2 | Introduction to Web ![](https://img.shields.io/badge/-Completed-brightgreen)  | | |
+| 1 | 2 | Client-Server Architecture of Web ![](https://img.shields.io/badge/-Completed-brightgreen)  | | |
+| 1 | 2 | Web Server ![](https://img.shields.io/badge/-Completed-brightgreen)  | | |
+| 1 | 2 | Application Server ![](https://img.shields.io/badge/-Completed-brightgreen)  | | |
+| 1 | 3 | Evolution of Web ![](https://img.shields.io/badge/-Completed-brightgreen)  | | |
+| 1 | 3 | Web 1.0, Web 2.0, Web 3.0 ![](https://img.shields.io/badge/-Completed-brightgreen)  | | |
 | 1 | 4 | Introduction to HTML ![](https://img.shields.io/badge/-Completed-brightgreen) | | |
 | 1 | | HTML: \<html\>, \<body\>, \<head\>, \<title\> ![](https://img.shields.io/badge/-Completed-brightgreen) | | |
 | 1 | | HTML Formatting: \<b\>, \<strong\>, \<i\>, \<mark\>, \<del\>, \<sub\>, \<sup\>, \<p\> and Styles  ![](https://img.shields.io/badge/-Completed-brightgreen) | | |
@@ -49,8 +49,8 @@
 | 3 | | [Introduction to Java Script](Examples/Scripts) ![](https://img.shields.io/badge/-Completed-brightgreen) | | |
 | 3 | | [Introduction to Java Script](Examples/Scripts) JS: Form Validation ![](https://img.shields.io/badge/-Completed-brightgreen) | | |
 | 3 | | JS: Event Handling ![](https://img.shields.io/badge/-Completed-brightgreen) | | |
-| 3 | | JS: Document Object Model | | |
-| 3 | | JS: Application Deployment | | |
+| 3 | | JS: Document Object Model ![](https://img.shields.io/badge/-Completed-brightgreen)  | | |
+| 3 | | JS: Application Deployment ![](https://img.shields.io/badge/-Completed-brightgreen) | | |
 
 ### Mini-Project Topics
 
@@ -60,15 +60,17 @@
 
 | Components | Marks |
 |:----------|:-----:|
-| **[Internal][CA-T]** Monthly Quiz (2 Nos) | 5 + 5 |
+| **[Internal][CA-T]** Quiz (1 Nos) | 5 |
 | **[Internal][CA-L]** Assignments (3 Nos) | 5 + 5 + 5 |
-| **[Internal][CA-L]** Lab Evaluation (3 Nos) | 5 + 5 + 5 |
+| **[Internal][CA-L]** Lab Evaluation (2 Nos) + Record | 5 + 5 + 5 |
+| **[Internal][CA-L]** Viva | 5 |
 | **[Internal][CA-L]** Mini-Project | 10 |
 | **[Internal]** Periodical I | 10 |
 | **[Internal]** Periodical II | 10 |
 | **[External]** End-Semester Exam | 30 |
 
 [Click Here](Evaluation_Pages) to view Evaluation Pages of the Students
+[Click Here](Assignments) to view Assignments of the Students
 
 ### Dates and Deadlines
 
